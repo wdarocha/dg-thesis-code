@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite both this software repository and the associated PhD thesis."
+title: "dg-thesis-code"
+type: software
+authors:
+  - family-names: "da Rocha"
+    given-names: "Wagner Alan Aparecido"
+repository-code: "https://github.com/wdarocha/dg-thesis-code"
+license: "MIT"
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "da Rocha"
+      given-names: "Wagner Alan Aparecido"
+  title: "Ordenacao em vertices de grafos de proteinas"
+  year: 2022
+  institution: "Universidade Estadual de Campinas"
