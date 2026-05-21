@@ -19,6 +19,7 @@ preferred-citation:
   title: "Ordenacao em vertices de grafos de proteinas"
   title-translated:
     en: "A new vertex order for protein graphs"
+  abstract: "This thesis studies the inverse problem of protein three-dimensional structure conformation under distance constraints obtained from nuclear magnetic resonance experiments. Modeling the problem as a simple weighted undirected graph, it proposes a vertex ordering that enables discretization of the solution search space and the use of the interval Branch and Prune algorithm, as well as a new algorithm based on the iBP strategy for experimental NMR data."
   year: 2022
   institution: "Universidade Estadual de Campinas"
   department: "Instituto de Matematica, Estatistica e Computacao Cientifica"
