@@ -7,19 +7,25 @@ authors:
     given-names: "Wagner Alan Aparecido"
 repository-code: "https://github.com/wdarocha/dg-thesis-code"
 license: "MIT"
-abstract: "Historical MATLAB code associated with a PhD thesis on distance geometry and protein structure reconstruction."
 keywords:
-  - "MATLAB"
-  - "distance geometry"
-  - "protein structure reconstruction"
-  - "branch-and-prune"
-  - "scientific computing"
+  - "Geometria de distancias"
+  - "Ressonancia magnetica nuclear"
+  - "Proteinas - Estrutura"
 preferred-citation:
   type: thesis
   authors:
     - family-names: "da Rocha"
       given-names: "Wagner Alan Aparecido"
   title: "Ordenacao em vertices de grafos de proteinas"
+  title-translated:
+    en: "A new vertex order for protein graphs"
   year: 2022
   institution: "Universidade Estadual de Campinas"
+  department: "Instituto de Matematica, Estatistica e Computacao Cientifica"
+  thesis-type: "Tese (doutorado)"
+  advisors:
+    - family-names: "Lavor"
+      given-names: "Carlile Campos"
+    - family-names: "Caruso"
+      given-names: "Icaro Putinhon"
   url: "https://www.repositorio.unicamp.br/acervo/detalhe/1251302"
