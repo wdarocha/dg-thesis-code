@@ -11,7 +11,7 @@ This repository is preserved mainly as thesis-associated historical code and is 
 If you need clarification about the code, data layout, or expected behavior, please contact me by email:
 
 ```text
-wagneralan93@gmail.com
+wdarocha [at] ime.unicamp.br
 ```
 
 The functionality in this repository is being migrated progressively to better structured C code.
