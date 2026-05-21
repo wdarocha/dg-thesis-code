@@ -39,6 +39,7 @@ The repository currently includes:
 - `src/probability`: Gaussian intersection and combination helpers
 - `scripts`: thesis-era experiment scripts
 - `data`: thesis-era experiment inputs
+- `scriptITBPVsIBP.m`: convenience wrapper for the main experiment script
 
 ## Usage Notes
 
@@ -61,6 +62,17 @@ Then run the main experiment script:
 ```matlab
 run('scripts/scriptITBPVsIBP.m');
 ```
+
+Alternatively, you may use the wrapper in the repository root:
+
+```matlab
+run('scriptITBPVsIBP.m');
+```
+
+In this setup:
+
+- `scriptITBPVsIBP.m` in the repository root is only a lightweight entry-point wrapper.
+- `scripts/scriptITBPVsIBP.m` contains the thesis-era experiment logic.
 
 The script expects thesis-era input files under:
 
